@@ -33,8 +33,8 @@ export const map = createMap(window, (shields) => shieldDefLoad(shields), {
   hash: "map",
   antialias: true,
   style: buildStyle(),
-  center: [-94, 40.5],
-  zoom: 4,
+  center: [90.549, 23.795],
+  zoom: 7,
   attributionControl: false,
 });
 
